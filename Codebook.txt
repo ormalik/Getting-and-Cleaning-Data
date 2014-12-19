@@ -1,0 +1,175 @@
+Geeting and Cleaning Data - Course Project
+
+Codebook
+
+
+subject: the integer subject ID.
+activity: 
+
+Time domain body acceleration mean along X, Y, and Z:
+
+1.tBodyAcc-mean()-X 
+2.tBodyAcc-mean()-Y 
+3.tBodyAcc-mean()-Z
+
+Time domain body acceleration standard deviation along X, Y, and Z:
+
+4.tBodyAcc-std()-X
+5.tBodyAcc-std()-Y 
+6.tBodyAcc-std()-
+
+Time domain gravity acceleration mean along X, Y, and Z:
+
+7.tGravityAcc-mean()-X 
+8.tGravityAcc-mean()-Y
+9.tGravityAcc- mean()-Z
+
+Time domain gravity acceleration standard deviation along X, Y, and Z:
+
+10.tGravityAcc-std()-X 
+11.tGravityAcc-std()-Y 
+12.tGravityAcc-std()-Z
+
+Time domain body jerk mean along X, Y, and Z:
+
+13.tBodyAccJerk-mean()-X 
+14.tBodyAccJerk-mean()-Y 
+15.tBodyAccJerk-mean()-Z
+
+Time domain body jerk standard deviation along X, Y, and Z:
+
+16.tBodyAccJerk-std()-X
+17.tBodyAccJerk-std()-Y 
+18.tBodyAccJerk-std()-Z
+
+Time domain gyroscope mean along X, Y, and Z:
+
+19.tBodyGyro-mean()-X 
+20.tBodyGyro-mean()-Y
+21.tBodyGyro-mean()-Z
+
+Time domain gyroscope standard deviation along X, Y, and Z:
+
+22.tBodyGyro-std()-X 
+23.tBodyGyro-std()-Y 
+24.tBodyGyro-std()-Z
+
+Time domain gyroscope jerk mean along X, Y, and Z:
+
+25.tBodyGyroJerk-mean()-X
+26.tBodyGyroJerk-mean()-Y 
+27.tBodyGyroJerk-mean()-Z
+
+Time domain gyroscope jerk standard deviation along X, Y, and Z:
+
+28.tBodyGyroJerk-std()-X 
+29.tBodyGyroJerk-std()-Y
+30.tBodyGyroJerk-std()-Z
+
+Time domain body acceleration magnitude mean:
+
+31.tBodyAccMag-mean()
+
+Time domain body acceleration magnitude standard deviation:
+
+32.tBodyAccMag-std()
+
+Time domain gravity acceleration magnitude mean:
+
+33.tGravityAccMag-mean()
+
+Time domain gravity acceleration magnitude standard deviation:
+
+34.tGravityAccMag-std()
+
+Time domain body jerk magnitude mean:
+
+35.tBodyAccJerkMag-mean()
+
+Time domain body jerk magnitude standard deviation:
+
+36.tBodyAccJerkMag-std()
+
+Time domain gyroscope magnitude mean:
+
+37.tBodyGyroMag-mean()
+
+Time domain gyroscope magnitude standard deviation:
+
+38.tBodyGyroMag-mean()
+
+Time domain gyroscope jerk magnitude mean:
+
+39.tBodyGyroJerkMag-mean()
+
+Time domain gyroscope jerk magnitude standard deviation:
+
+40.tBodyGyroJerkMag-std()
+
+Frequency domain body acceleration mean along X, Y, and Z:
+
+41.fBodyAcc-mean()-X
+42.fBodyAcc-mean()-Y 
+43.fBodyAcc-mean()-Z
+
+Frequency domain body acceleration standard deviation along X, Y, and Z:
+
+44.fBodyAcc-std()-X 
+45.fBodyAcc-std()-Y 
+46.fBodyAcc-std()-Z
+
+Frequency domain body jerk mean along X, Y, and Z:
+
+47.fBodyAccJerk-mean()-X 
+48.fBodyAccJerk-mean()-Y 
+49.fBodyAccJerk-mean()-Z
+
+Frequency domain body jerk standard deviation along X, Y, and Z:
+
+50.fBodyAccJerk-std()-X
+51.fBodyAccJerk-std()-Y 
+52.fBodyAccJerk-std()-Z
+
+Frequency domain gyroscope mean along X, Y, and Z:
+
+53.fBodyGyro-mean()-X 
+54.fBodyGyro-mean()-Y
+55.fBodyGyro-mean()-Z
+
+Frequency domain gyroscope standard deviation along X, Y, and Z:
+
+56.fBodyGyro-std()-X 
+57.fBodyGyro-std()-Y 
+58.fBodyGyro-std()-Z
+
+Frequency domain body acceleration magnitude mean:
+
+59.fBodyAccMag-mean()
+
+Frequency domain body acceleration magnitude standard deviation:
+
+60.fBodyAccMag-std()
+
+Frequency domain body jerk magnitude mean:
+
+61.fBodyBodyAccJerkMag-mean()
+
+Frequency domain body jerk magnitude standard deviation:
+
+62.fBodyBodyAccJerkMag-std()
+
+Frequency domain gyroscope magnitude mean:
+
+63.fBodyBodyGyroMag-mean()
+
+Frequency domain gyroscope magnitude standard deviation:
+
+64.fBodyBodyGyroMag-std()
+
+Frequency domain gyroscope jerk magnitude mean:
+
+65.fBodyBodyGyroJerkMag-mean()
+
+Frequency domain gyroscope jerk magnitude standard deviation:
+
+67.fBodyBodyGyroJerkMag-std()
