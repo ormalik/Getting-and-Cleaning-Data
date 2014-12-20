@@ -172,4 +172,4 @@ Frequency domain gyroscope jerk magnitude mean:
 
 Frequency domain gyroscope jerk magnitude standard deviation:
 
-67.fBodyBodyGyroJerkMag-std()
+66.fBodyBodyGyroJerkMag-std()
